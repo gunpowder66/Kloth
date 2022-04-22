@@ -7,7 +7,6 @@ Project created with [`React`](https://github.com/facebook/react)
   - [2. Running the Project](#2-running-the-project)
 - [Project Details](#project-details)
 - [Contributers](#contributors)
-- [How to Contribute](#how-to-contribute)
 
 ## Getting Started
 Kloth is a single page e-commerce web application created utilizing React and Node/Express. This project was created by a team of four engineers.
